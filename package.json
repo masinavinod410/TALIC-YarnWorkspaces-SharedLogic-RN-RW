@@ -1,0 +1,12 @@
+{
+    "name": "GlobalApp",
+    "version": "1.0.0",
+    "main": "index.js",
+    "author": "Vinod Kumar <masinavinod@gmail.com>",
+    "license": "MIT",
+    "private": true,
+    "workspaces": [
+      "packages/*"
+    ]
+  }
+  
